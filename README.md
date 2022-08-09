@@ -57,3 +57,8 @@ Used [this](https://www.montana.edu/rotella/documents/502/Prob_odds_log-odds.pdf
 - Ensembling Machine Learning Estimators and Tensorflow Hub NLP models together
 
 Any YouTube user might utilise a web application as a potential software solution. The UI of the web app would be optimised for mobile devices given that more than 70% of YouTube viewing time occurs on mobile devices (though works fine on desktop)
+
+
+## Authors
+
+- [@Atharva21-stack](https://www.github.com/atharva21-stack)
